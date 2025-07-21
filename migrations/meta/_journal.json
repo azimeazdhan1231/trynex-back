@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1703123456789,
+      "tag": "0015_complete_clean_reset",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1737584123456,
+      "tag": "0015_complete_clean_reset",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1737584200000,
+      "tag": "0016_final_schema_match",
+      "breakpoints": true
+    }
+  ]
+}
